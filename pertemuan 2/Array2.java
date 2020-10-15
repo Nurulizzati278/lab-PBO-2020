@@ -20,5 +20,6 @@ public class Array2 {
 		System.out.println("Nilai arrx[2][0] : " + arrx[2][0]);
 		System.out.println("Nilai arrx[2][1] : " + arrx[2][1]);
 		System.out.println("Nilai arrx[2][2] : " + arrx[2][2]);
+
 	}
 }
