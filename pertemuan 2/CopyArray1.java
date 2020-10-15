@@ -14,7 +14,7 @@ public class CopyArray {
 		System.out.println("String 4:"+str4);
 		System.out.println("String 5:"+str5);
 		System.out.println("Perintah Pembandingan dibawah mengabaikan antara huruf besar dengan huruf kecil");
-		System.out.println("String 4 = String 5 ==> " +str4.equalsIgnoreCase(str5));
-		System.out.println("String 4 + String 5 = String 5 + String 4 ==> " +(str4+str5).equalsIgnoreCase(str5+str4));
+		System.out.println("String 4 = String 5 ==> "+str4.equalsIgnoreCase(str5));
+		System.out.println("String 4 + String 5 = String 5 + String 4 ==> "+(str4+str5).equalsIgnoreCase(str5+str4));
 	}
 }

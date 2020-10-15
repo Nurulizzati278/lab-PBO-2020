@@ -1,5 +1,6 @@
 public class Array2 {
 	public static void main(String args[]) {
+
 		//Array 2 dimensi
 		int[][] arrx = new int[3][3];
 		arrx[0][0] = 1;
@@ -20,6 +21,5 @@ public class Array2 {
 		System.out.println("Nilai arrx[2][0] : " + arrx[2][0]);
 		System.out.println("Nilai arrx[2][1] : " + arrx[2][1]);
 		System.out.println("Nilai arrx[2][2] : " + arrx[2][2]);
-
 	}
 }

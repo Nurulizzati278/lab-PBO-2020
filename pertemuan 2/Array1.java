@@ -8,7 +8,7 @@ public class Array1 {
 
 		for(int i=0; i<nilai.length; i++)
 			ratarata+=nilai[i];
-		
+			
 		ratarata/=nilai.length;
 		System.out.println("Nilai rata-rata = " + ratarata);
 	}
