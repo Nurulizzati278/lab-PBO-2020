@@ -52,7 +52,7 @@ $java Main
 
 
 Run The Program
-1. Buka aplikasi Teks Editor (Visual Studio atau Sublime)
+1. Buka aplikasi Sublime
 2. Buat kode dari soal yang telah diberikan.
 3. Compile program tersebut dan lihat apakah ada eror atau tidak
 4. Jika tidak ada eror run program tersebut
