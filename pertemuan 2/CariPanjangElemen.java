@@ -26,3 +26,8 @@ public class CariPanjangElemen {
 		System.out.println(x[1][1][1].length);
 	}
 }
+
+/*penjelasan program diatas
+	program diatas digunakan untuk mencari panjang elemen, dimana nilai dari array tersebut
+	akan dit.
+*/

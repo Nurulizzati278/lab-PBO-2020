@@ -23,3 +23,8 @@ public class Array2 {
 		System.out.println("Nilai arrx[2][2] : " + arrx[2][2]);
 	}
 }
+
+/*penjelasan program diatas
+	program diatas digunakan untuk mencetak nilai dari array dua dimensi, dimana nilai dari array tersebut
+	akan dicetak sesuai nilai yang telah di deklarasikan.
+*/

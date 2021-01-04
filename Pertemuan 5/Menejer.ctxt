@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Menejer
+comment1.params=nama\ gaji\ departemen
+comment1.target=Menejer(java.lang.String,\ double,\ java.lang.String)
+comment2.params=departemen
+comment2.target=void\ setDepartemen(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getDepartemen()
+numComments=4

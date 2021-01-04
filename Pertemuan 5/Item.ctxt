@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Item
+comment1.params=title\ time
+comment1.target=Item(java.lang.String,\ int)
+comment2.params=comment
+comment2.target=void\ setComment(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getComment()
+comment4.params=gotIt
+comment4.target=void\ setOwn(java.lang.String)
+comment5.params=
+comment5.target=void\ print()
+numComments=6

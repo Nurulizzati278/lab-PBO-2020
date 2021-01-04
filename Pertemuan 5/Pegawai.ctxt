@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Pegawai
+comment1.params=nama\ gaji
+comment1.target=Pegawai(java.lang.String,\ double)
+comment2.params=nama
+comment2.target=void\ setNama(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getNama()
+comment4.params=gaji
+comment4.target=void\ setGaji(double)
+comment5.params=
+comment5.target=double\ getGaji()
+numComments=6

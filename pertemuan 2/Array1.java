@@ -1,4 +1,4 @@
-public class Array1 {
+public class Array1{
 	public static void main(String args[]) {
 		int nilai[]=new int[3];
 		nilai[0]=70;
@@ -13,3 +13,8 @@ public class Array1 {
 		System.out.println("Nilai rata-rata = " + ratarata);
 	}
 }
+
+/*penjelasan program diatas
+	program diatas digunakan untuk mencoba melihat nilai rata-rata dari array satu dimensi, dimana nilai dari 
+	array tersebut akan ditambah terlebih dahulu dan kemudian dibagi jumlah array nya.
+*/

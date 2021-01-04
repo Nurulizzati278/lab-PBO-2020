@@ -14,3 +14,8 @@ public class CopyArray {
 			System.out.print(array2[i] + " ");
 	}
 }
+
+/*penjelasan program diatas
+	program diatas digunakan untuk mencoba melihat nilai rata-rata, dimana nilai dari array tersebut
+	akan ditambah terlebih dahulu dan kemudian dibagi jumlah array nya.
+*/
